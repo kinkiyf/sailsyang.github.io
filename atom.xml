@@ -2,14 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://celesteyang.github.io</id>
     <title>帆帆</title>
-    <updated>2020-11-25T14:42:57.232Z</updated>
+    <updated>2021-07-30T02:09:58.691Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://celesteyang.github.io"/>
     <link rel="self" href="https://celesteyang.github.io/atom.xml"/>
     <subtitle>做个记录</subtitle>
     <logo>https://celesteyang.github.io/images/avatar.png</logo>
     <icon>https://celesteyang.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2020, 帆帆</rights>
+    <rights>All rights reserved 2021, 帆帆</rights>
     <entry>
         <title type="html"><![CDATA[我的7年投资概述]]></title>
         <id>https://celesteyang.github.io/post/7-years-investment/</id>
@@ -92,67 +92,6 @@
 </ol>
 <p>希望有开发者做出更好用的版本 😃</p>
 <p>感谢指数基金的发明人，还有那些向大众分享了投资方法、思路和工具的作者，如果没有这些人的工作，我们可能根本不敢参与，或是只能迷茫地在市场上做选择。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一篇文章解答“港股打新”的问题]]></title>
-        <id>https://celesteyang.github.io/post/hkipo/</id>
-        <link href="https://celesteyang.github.io/post/hkipo/">
-        </link>
-        <updated>2020-06-24T05:32:11.000Z</updated>
-        <summary type="html"><![CDATA[<p>最近心情很不好，老友群里大家遇到的糟心事很多，各种吐槽，考虑到讨论赚钱也是一种转换心情的方式，所以我提了一嘴，今年打中一只港股，赚了¥7000＋</p>
-<p>本来以为几句就能讲明白，然而一串说下来，有人表示一句都没听懂😓，这激起了我的好胜心，所以才有了这篇文章。</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>最近心情很不好，老友群里大家遇到的糟心事很多，各种吐槽，考虑到讨论赚钱也是一种转换心情的方式，所以我提了一嘴，今年打中一只港股，赚了¥7000＋</p>
-<p>本来以为几句就能讲明白，然而一串说下来，有人表示一句都没听懂😓，这激起了我的好胜心，所以才有了这篇文章。</p>
-<!-- more -->
-<p>就我自己的体验，港股打新确实是一种风险不太高的投资方式，只要遵循几个原则，赚钱的概率&gt;亏钱的概率，目前值得参与。</p>
-<p>不过与其说是投资，不如说是投机，所以我只在自己现金比较充裕的时候参加。其他长期投资还是更重要的，只是现在还不知道从哪里开头，等我问问我的朋友想先听啥再说吧。</p>
-<h1 id="港股打新是什么">港股打新是什么？</h1>
-<p>在股市上买股票似乎是一种很常见的行为，但你有没有想过，一家新公司的股票，是怎么进入股市的呢？港股的散户获得新股，是通过抽签分配制。以金钱作为抵押，提交申购申请，通过抽签的方式，中签的人就能以发行价在股票上市前获得中签的部分，简称打新。</p>
-<p>既然是抽签，就有中签概率问题，港股对于只申购一手的人非常友好。申购一手热门股票，目前的中签概率大概是10%-20%，不过因为近期行情很好，中签率越来越低了，但比起A股动辄0.00X％的中签率，还是好太多。</p>
-<p>从去年开始，我就在自己的长期投资帐户里小试过几次，那时申购一手股票的中签率，常常是50%-100%！中签的股票有升有跌，但总体是正向结果。如果有一天大市不好，新股上市轮番跌破发行价，可能这中签率会再次回升。</p>
-<h1 id="为什么打新有机会赚钱">为什么打新有机会赚钱？</h1>
-<p>我的理解是，因为购买新公司股票的主力是机构，买卖双方在发行价格上是有博弈的，如果有折价，或是群众一致看好，第一天上市就有上涨的空间。</p>
-<p>所以赚钱是因为能跟着大户喝汤。</p>
-<h1 id="怎么参与比较安全">怎么参与比较安全</h1>
-<p>最基本的三个原则：</p>
-<ol>
-<li>
-<p>只用现金参与申购。除非有非常大的把握，才动用融资，从券商那里借款申购。</p>
-<p>因为港股的新股分配机制偏向于只申购一手的人，即使申购多手，中签率也只增加一点点。</p>
-<p>如果动用了融资，一定要在非常确定的股票上，并且用足。融资成本的大头是融资申购费，大部分是100，融资利息倒不高，反正也只用几天。如果在确定的股票上动用了融资，就使劲多用点，最好能申购保证中一手的数量（目前热门股票在50-100手），申购少了是在白白浪费融资成本。</p>
-</li>
-<li>
-<p>只参与好公司。可以参考<a href="https://www.jisilu.cn/data/new_stock/#hkipo">jisilu网站上的免费申购建议</a>（需注册），居民物业、医药类都是今年普涨的公司。不好的公司，100%中签都有可能，中了这种，估计就要哭了。</p>
-</li>
-<li>
-<p>开盘就卖！不管开盘之后价格如何，在开盘后一两个小时内尽快全部卖出。打新就打新，绝不留恋。大家常说，投资就是认知的变现，如果现有的认知是打新，并不了解打新的股票，就不要抱着长期投资的想法不舍得卖，或者觉得亏了要等等。做任何投资前，就要想好卖出的理由，而这个理由不能随着股价而变动。</p>
-</li>
-</ol>
-<h1 id="具体怎么操作">具体怎么操作</h1>
-<p>注册多个香港券商账户，每个账户转2.5万港币左右，然后在股票可以申购的时候参与。如果有中，开盘当天就卖出。有些券商支持暗盘，公布结果后，券商自己的用户就可以在券商的池子里相互交易了。</p>
-<p>下面是我已经注册的香港券商，选择的条件是持有合法牌照、背景靠谱、现金申购不收费或收一点点：</p>
-<blockquote>
-<p><a href="http://opt.investassistant.com/miningopt/roulette/index?channelopen=ZPWDAPP&amp;hmsr=weibo&amp;hmpl=d17726edfe52efac&amp;hmcu=ZPWDAPP&amp;hmkw=&amp;hmci=&amp;share=352938&amp;miningfrom=weibo&amp;trader=mining_p&amp;miningfrom=weibo&amp;hmsr=weibo&amp;hmpl=d17726edfe5">尊嘉</a>：永久收5元现金申购费，中签后交易费只要1元。app设计中规中矩，资金明细做得非常清楚，足以看清港交所的过路费有多高，好在是中签才会收。</p>
-</blockquote>
-<blockquote>
-<p>辉立证券：http://www.poems.com.hk/zh-hk <a href="http://www.poems.com.hk/zh-hk/product-and-service/initial-public-offerings/promotion/ipo-offer/">具体费用链接</a>在此，10000元以下可以0元申购，连本金都不用出，打新的话非常推荐。融资利率也很不错，额度也容易申请。缺点是：网页设计比较过时，还好信息丰富，也比较容易查找。app感觉停留在了10年前的样子，只能说勉强用吧。好在优点突出，这些缺点都可以接受。</p>
-</blockquote>
-<blockquote>
-<p><a href="https://gb.zhangle.com/views/new-customer-gift/index.htm?ciphertext=3b0c09960f7ab7a5711d7b4d173cea75f7e82effb3c50ee5964df5c6b0c88e9151acf8135379a918c86608debacb5ef4bb1a6efab47e141d5f6e52cc072621bf">华泰国际</a>：购买单月会员8元，所有费用均免。app设计得像小程序，体验很不好。过分追求简洁而隐藏了大部分常用功能，风控过严，每次登陆都需要重新输入密码，并且要短信二次验证，非常繁琐。感觉业务开展不久，好多功能都没有，进步空间还很大。</p>
-</blockquote>
-<blockquote>
-<p><a href="https://growth1.futunn.com/common-invite/temp/5?code=327ee97ead3259a92e36e26434730ba9&amp;channel=535&amp;subchannel=10003&amp;fx=23">富途证券</a>：费用方面没有优势，现金申购50元，融资申购100元。我开这家是因为可以同时美股打新。app一言难尽，逻辑和入口都比较杂乱，交易界面也有点反人类，而且各种消息乱蹦......我改了多个默认设置，才勉强理顺。</p>
-</blockquote>
-<p>以前觉得<a href="https://www-web.itiger.com/activity/forapp/invitation/TXWQS-signup?reg_source=invite&amp;invite=TXWQS&amp;lang=zh_CN&amp;share=QQ">老虎证券</a>的app设计一般，偶尔嫌弃字体太小，然而相比上述券商，真是称得上优秀了。不过只能融资打新，费用100，好在利率较低，目前2.5%左右，很适合融资，只是热门股票的打新有时候融资额度完全抢不到......</p>
-<p>PS：老虎是我的长期投资账户，原本是在IB开户的，后来老虎证券问世后，绑定了老虎进行交易，似乎直接开户是老虎自己持牌的户口，稳妥起见，建议还是直接开IB：https://www.interactivebrokers.com/。</p>
-<p>通过上面我分享的链接注册，我会得到一点奖励 😃</p>
-<p>嗯对了，开户的时候还是要开融资账户，虽然秉持着用现金申购的心，就像之前说的，万一遇到非常确定的股票，比如农夫山泉，还是可以用一下融资的。</p>
-<p>按券商的指示一路注册就行了，一般10分钟都能搞定。</p>
-<h1 id="结尾">结尾</h1>
-<p>写完发现，港股打新是有点麻烦，不过开完户基本上就一劳永逸了。对我来说，相比其他的现金理财方式，它有两个明显优点：长期坚持，收益率更高；流动性好。</p>
-<p>赚钱不能嫌麻烦，比起职场上的社会人，这项投机理财不是简单多了？</p>
 ]]></content>
     </entry>
 </feed>
